@@ -7,7 +7,7 @@ const VisitSchema = new mongoose.Schema({
   nickname: { type: String },
   number:{type:String},
   indstrial: { type: String },
-  enterprise: { type: String },
+  enterprise: { type: String },  
   email: { type: String },
   CareerTitle: { type: String },
   phoneNumber: { type: Number },
